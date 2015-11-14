@@ -81,9 +81,4 @@ public enum QueueType {
 	public int getGameQueueConfigId() {
 		return gameQueueConfigId;
 	}
-
-	@Override
-	public String toString() {
-		return getName();
-	}
 }

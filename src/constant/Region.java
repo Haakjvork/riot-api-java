@@ -54,9 +54,4 @@ public enum Region {
 	public String getName() {
 		return region;
 	}
-
-	@Override
-	public String toString() {
-		return getName();
-	}
 }

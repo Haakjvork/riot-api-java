@@ -52,9 +52,4 @@ public enum Season {
 	public String getName() {
 		return season;
 	}
-
-	@Override
-	public String toString() {
-		return getName();
-	}
 }
